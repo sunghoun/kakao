@@ -1,3 +1,10 @@
+/*.status-bar,
+.header {
+  position: fixed;
+  width: ;
+  height: ;
+}*/
+
 .status-bar {
   display: flex;
   justify-content: space-between;
